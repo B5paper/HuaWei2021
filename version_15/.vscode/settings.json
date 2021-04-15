@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "unordered_set": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "xtree": "cpp",
+        "queue": "cpp",
+        "cmath": "cpp",
+        "iterator": "cpp",
+        "set": "cpp",
+        "deque": "cpp",
+        "cstdlib": "cpp",
+        "ostream": "cpp",
+        "xutility": "cpp",
+        "list": "cpp",
+        "xstddef": "cpp",
+        "tuple": "cpp"
+    }
+}
